@@ -1,0 +1,2 @@
+# beshr-store
+Bages Store
